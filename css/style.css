@@ -9128,7 +9128,7 @@ html [class*='section-'].section-top-0 {
 		padding: 40px 0;
 	}
 	.section-sm.section-first {
-		padding-top: 80px;
+		/* padding-top: 80px; */
 	}
 	.section-sm.section-last {
 		padding-bottom: 80px;
@@ -9155,7 +9155,7 @@ html [class*='section-'].section-top-0 {
 		padding: 50px 0;
 	}
 	.section-sm.section-first {
-		padding-top: 100px;
+		/* padding-top: 100px; */
 	}
 	.section-sm.section-last {
 		padding-bottom: 100px;
