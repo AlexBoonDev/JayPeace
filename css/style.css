@@ -13055,10 +13055,10 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-creative.rd-navbar-static .rd-navbar-brand img {
-	width: auto;
+/* 	width: auto;
 	height: auto;
 	max-width: 180px;
-	max-height: 86px;
+	max-height: 86px; */
 }
 
 .rd-navbar-creative.rd-navbar-static.rd-navbar--is-stuck, .rd-navbar-creative.rd-navbar-static.rd-navbar--is-clone {
